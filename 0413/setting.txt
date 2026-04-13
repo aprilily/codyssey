@@ -1,0 +1,20 @@
+# setting.txt - 미션 컴퓨터 출력 항목 설정 파일
+#
+# [info_fields] : get_mission_computer_info() 출력 항목
+#   os, os_version, cpu_type, cpu_cores, memory_size
+#
+# [load_fields] : get_mission_computer_load() 출력 항목
+#   cpu_usage, memory_usage
+#
+# 원하지 않는 항목은 #으로 주석 처리하거나 삭제하세요.
+
+[info_fields]
+os
+os_version
+cpu_type
+cpu_cores
+memory_size
+
+[load_fields]
+cpu_usage
+memory_usage
