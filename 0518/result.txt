@@ -1,0 +1,2 @@
+Shift : 1
+Result: lzqr06
